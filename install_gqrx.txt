@@ -1,0 +1,3 @@
+sudo add-apt-repository -y ppa:gqrx/gqrx-sdr
+sudo apt-get install gqrx-sdr
+sudo apt-get install dfu-util

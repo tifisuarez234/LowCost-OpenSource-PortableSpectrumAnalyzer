@@ -1,0 +1,1 @@
+sudo apt-get install git build-essential cmake libusb-1.0-0-dev liblog4cpp5-dev libboost-dev libboost-system-dev libboost-thread-dev libboost-program-options-dev swig pkg-config libfftw3-dev

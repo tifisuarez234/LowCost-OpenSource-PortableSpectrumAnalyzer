@@ -1,0 +1,5 @@
+sudo nano /boot/config.txt
+hdmi_force_edid_audio=1
+hdmi_drive=2
+hdmi_timings=1024 1 200 18 200 600 1 50 3 50 0 0 0 60 0 51200000 3
+sudo reboot
